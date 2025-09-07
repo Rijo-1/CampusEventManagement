@@ -73,28 +73,33 @@ src/
 
 
 
-## AI Guidance Screenshots
+## AI Guidance & Development Process
 
-Here are some examples of the AI guidance in action:
+Our development process leveraged cutting-edge AI tools to create the best possible user experience:
 
-1. ![AI Guidance 1](https://example.com/ai-guidance-1.png)
-2. ![AI Guidance 2](https://example.com/ai-guidance-2.png)
-3. ![AI Guidance 3](https://example.com/ai-guidance-3.png)
-4. ![AI Guidance 4](https://example.com/ai-guidance-4.png)
+1. **Initial Concept with GPT** - We started by discussing and refining our ideas with GPT to define the core features and user flows.
+2. **Prompt Engineering** - Worked with GPT to craft effective prompts that would generate optimal responses and guidance.
+3. **Bolt Implementation** - Used the generated prompts in Bolt to create functional prototypes and test different interaction patterns.
+4. **Design Elevation with Windsurf** - Finally, we refined and elevated the designs using Windsurf to create a polished, professional interface.
+
+### AI Guidance in Action
+
+1. ![Initial GPT Brainstorming](https://example.com/ai-guidance-1.png)
+2. ![Prompt Refinement](https://example.com/ai-guidance-2.png)
+3. ![Bolt Implementation](https://example.com/ai-guidance-3.png)
+4. ![Final Windsurf Design](https://example.com/ai-guidance-4.png)
 
 ## App Screenshots
 
 ### Dashboard
-![Dashboard](https://example.com/dashboard-screenshot.png)
+![Dashboard](https://example.com/dash.png)
 
 ### Event Management
-![Event Management](https://example.com/events-screenshot.png)
+![Event Management](https://example.com/events.png)
 
 ### User Profile
-![User Profile](https://example.com/profile-screenshot.png)
+![User Profile](https://example.com/profile.png)
 
-### QR Ticket
-![QR Ticket](https://example.com/ticket-screenshot.png)
 
 ## Environment Setup
 
