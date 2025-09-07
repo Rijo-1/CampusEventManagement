@@ -93,9 +93,6 @@ Our development process leveraged cutting-edge AI tools to create the best possi
 3. ![Bolt Implementation](./ss/bolt.png)
 4. ![Final Windsurf Design](./ss/windsurf.png)
 
-## App Screenshots
-
-
 ## Environment Setup
 
 1. Create a new project in [Supabase](https://supabase.com/)
