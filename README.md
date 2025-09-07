@@ -2,6 +2,10 @@
 
 A modern event management system built with React, TypeScript, and Supabase. This application allows users to discover, register for, and manage events, with features like QR code ticketing, user authentication, and role-based access control.
 
+## 🖥️ Homepage
+
+![EventHub Homepage](./ss/home.png)
+
 ## Features
 
 - 🔐 **Authentication** - Secure user authentication with Supabase Auth
@@ -84,21 +88,12 @@ Our development process leveraged cutting-edge AI tools to create the best possi
 
 ### AI Guidance in Action
 
-1. ![Initial GPT Brainstorming](https://example.com/ai-guidance-1.png)
-2. ![Prompt Refinement](https://example.com/ai-guidance-2.png)
-3. ![Bolt Implementation](https://example.com/ai-guidance-3.png)
-4. ![Final Windsurf Design](https://example.com/ai-guidance-4.png)
+1. ![Initial Idea](./ss/idea.png)
+2. ![Prompt Refinement](./ss/prompt.png)
+3. ![Bolt Implementation](./ss/bolt.png)
+4. ![Final Windsurf Design](./ss/windsurf.png)
 
 ## App Screenshots
-
-### Dashboard
-![Dashboard](https://example.com/dash.png)
-
-### Event Management
-![Event Management](https://example.com/events.png)
-
-### User Profile
-![User Profile](https://example.com/profile.png)
 
 
 ## Environment Setup
